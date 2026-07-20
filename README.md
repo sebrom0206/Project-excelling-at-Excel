@@ -1,4 +1,4 @@
-﻿# Project-excelling-at-Excel
+﻿# Project excelling at Excel
 
 A self-structured project to build Excel proficiency.
 
